@@ -1,0 +1,4 @@
+# Never serve Git metadata from the deployed build.
+<IfModule mod_alias.c>
+RedirectMatch 404 /\.git
+</IfModule>

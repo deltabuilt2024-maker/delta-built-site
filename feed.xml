@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>دلتا بلت — المعرفة والمشاريع</title>
+    <link>https://delta-built.com/</link>
+    <description>أحدث مقالات ومشاريع دلتا بلت للخدمات والاستشارات البيئية</description>
+    <language>ar</language>
+    <atom:link href="https://delta-built.com/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Nov 2026 07:22:42 GMT</lastBuildDate>
+    <item>
+      <title>الأيزو 14001: دليل عملي لبناء نظام الإدارة البيئية</title>
+      <link>https://delta-built.com/knowledge/iso-14001-guide</link>
+      <guid isPermaLink="true">https://delta-built.com/knowledge/iso-14001-guide</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category>الامتثال البيئي</category>
+      <description>كيف يعمل معيار الأيزو 14001، وما خطوات تطبيقه داخل المنشأة حتى الحصول على الشهادة، وما الذي تكسبه الإدارة فعليا من النظام.</description>
+      <enclosure url="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&amp;h=630&amp;fit=crop&amp;fm=jpg&amp;q=80" type="image/jpeg" length="0" />
+      <media:content url="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&amp;h=630&amp;fit=crop&amp;fm=jpg&amp;q=80" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>رصد الضوضاء والاهتزازات في المواقع الإنشائية</title>
+      <link>https://delta-built.com/knowledge/construction-noise-vibration-monitoring</link>
+      <guid isPermaLink="true">https://delta-built.com/knowledge/construction-noise-vibration-monitoring</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category>القياسات والرصد البيئي</category>
+      <description>لماذا يبدأ برنامج الرصد بقياس الوضع القائم، وأين توضع نقاط القياس، وما المؤشرات التي تقاس، وكيف يخفض الأثر على الجوار.</description>
+      <enclosure url="https://delta-built.com/media/og/photo-1589939705384-5185137a7f0f.jpg" type="image/jpeg" length="104443" />
+      <media:content url="https://delta-built.com/media/og/photo-1589939705384-5185137a7f0f.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>تقرير الاستدامة الأول: من أين تبدأ؟</title>
+      <link>https://delta-built.com/knowledge/first-sustainability-report</link>
+      <guid isPermaLink="true">https://delta-built.com/knowledge/first-sustainability-report</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category>الاستدامة والمناخ</category>
+      <description>خمس خطوات عملية لإعداد أول تقرير استدامة: تحديد القضايا الجوهرية، واختيار الإطار، وجمع البيانات، ووضع الأهداف، والتحقق.</description>
+      <enclosure url="https://delta-built.com/media/og/photo-1460925895917-afdab827c52f.jpg" type="image/jpeg" length="73312" />
+      <media:content url="https://delta-built.com/media/og/photo-1460925895917-afdab827c52f.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>تقييم دورة الحياة والإعلان البيئي للمنتج: دليل للمصنعين</title>
+      <link>https://delta-built.com/knowledge/lca-epd-guide</link>
+      <guid isPermaLink="true">https://delta-built.com/knowledge/lca-epd-guide</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category>الاستدامة والمناخ</category>
+      <description>ما الذي يقيسه تقييم دورة الحياة، وكيف يتحول إلى إعلان بيئي موثق للمنتج، ولماذا تطلبه مشاريع المباني الخضراء.</description>
+      <enclosure url="https://delta-built.com/media/og/photo-1595278069441-2cf29f8005a4.jpg" type="image/jpeg" length="194826" />
+      <media:content url="https://delta-built.com/media/og/photo-1595278069441-2cf29f8005a4.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>رؤية السعودية 2030 والبيئة: فرصة أم التزام؟</title>
+      <link>https://delta-built.com/knowledge/vision-2030-environment</link>
+      <guid isPermaLink="true">https://delta-built.com/knowledge/vision-2030-environment</guid>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+      <category>الاستدامة والمناخ</category>
+      <description>كيف تترجم مستهدفات رؤية السعودية 2030 البيئية إلى فرص عملية للمنشآت والمشاريع في القطاعين العام والخاص.</description>
+      <enclosure url="https://delta-built.com/media/og/photo-1726087165132-d64b2401728a.jpg" type="image/jpeg" length="135382" />
+      <media:content url="https://delta-built.com/media/og/photo-1726087165132-d64b2401728a.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>رصد جودة الهواء: كيف تحمي منشأتك وتثبت امتثالها للجهات التنظيمية؟</title>
+      <link>https://delta-built.com/knowledge/air-quality-monitoring</link>
+      <guid isPermaLink="true">https://delta-built.com/knowledge/air-quality-monitoring</guid>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
+      <category>القياسات والرصد البيئي</category>
+      <description>دليل عملي لفهم برامج رصد جودة الهواء ومتطلباتها وكيف تختار النظام المناسب لمنشأتك.</description>
+      <enclosure url="https://delta-built.com/media/service-monitoring.v1.jpg" type="image/jpeg" length="76374" />
+      <media:content url="https://delta-built.com/media/service-monitoring.v1.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>خطة إدارة النفايات: لماذا لا تستطيع أي منشأة أو مشروع الاستغناء عنها؟</title>
+      <link>https://delta-built.com/knowledge/waste-management-basics</link>
+      <guid isPermaLink="true">https://delta-built.com/knowledge/waste-management-basics</guid>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+      <category>إدارة النفايات</category>
+      <description>كيف تساهم خطة إدارة النفايات في تقليل التكاليف وتحقيق الامتثال وحماية البيئة في آن واحد.</description>
+      <enclosure url="https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=1200&amp;h=630&amp;fit=crop&amp;fm=jpg&amp;q=80" type="image/jpeg" length="0" />
+      <media:content url="https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=1200&amp;h=630&amp;fit=crop&amp;fm=jpg&amp;q=80" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>LEED أم Mostadam؟ كيف تحدد المسار المناسب لمشروعك؟</title>
+      <link>https://delta-built.com/knowledge/leed-vs-mostadam</link>
+      <guid isPermaLink="true">https://delta-built.com/knowledge/leed-vs-mostadam</guid>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+      <category>المباني المستدامة</category>
+      <description>نظرة مقارنة على أنظمة المباني المستدامة والعوامل التي يجب أخذها في الاعتبار عند اختيار الأنسب لمشروعك.</description>
+      <enclosure url="https://delta-built.com/media/og/photo-1586724237569-f3d0c1dee8c6.jpg" type="image/jpeg" length="207336" />
+      <media:content url="https://delta-built.com/media/og/photo-1586724237569-f3d0c1dee8c6.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>البصمة الكربونية: ما الفرق بين Scope 1 وScope 2 وScope 3؟</title>
+      <link>https://delta-built.com/knowledge/carbon-scopes</link>
+      <guid isPermaLink="true">https://delta-built.com/knowledge/carbon-scopes</guid>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+      <category>الاستدامة والمناخ</category>
+      <description>مدخل مبسط لفهم نطاقات الانبعاثات وكيف تبدأ المؤسسات في قياس وإدارة بصمتها الكربونية.</description>
+      <enclosure url="https://delta-built.com/media/og/photo-1473341304170-971dccb5ac1e.jpg" type="image/jpeg" length="53800" />
+      <media:content url="https://delta-built.com/media/og/photo-1473341304170-971dccb5ac1e.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>ما هي دراسة تقييم الأثر البيئي EIA ومتى يحتاجها مشروعك؟</title>
+      <link>https://delta-built.com/knowledge/eia-guide</link>
+      <guid isPermaLink="true">https://delta-built.com/knowledge/eia-guide</guid>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+      <category>الامتثال البيئي</category>
+      <description>تعرف على دور دراسة تقييم الأثر البيئي في تحديد المخاطر المحتملة ودعم القرارات البيئية خلال مراحل المشروع.</description>
+      <enclosure url="https://delta-built.com/media/og/pexels-14265815.jpg" type="image/jpeg" length="95631" />
+      <media:content url="https://delta-built.com/media/og/pexels-14265815.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>دراسة تقييم الأثر البيئي لمنشأة تصنيع بالرياض</title>
+      <link>https://delta-built.com/projects/eia-riyadh-industrial</link>
+      <guid isPermaLink="true">https://delta-built.com/projects/eia-riyadh-industrial</guid>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <category>الصناعة والتصنيع</category>
+      <description>تقييم شامل لمنشأة صناعية من قبل الحصول على الترخيص البيئي</description>
+      <enclosure url="https://delta-built.com/media/og/photo-1513828583688-c52646db42da.jpg" type="image/jpeg" length="120282" />
+      <media:content url="https://delta-built.com/media/og/photo-1513828583688-c52646db42da.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>استراتيجية الاستدامة والبصمة الكربونية — مشروع متعدد الاستخدامات بجدة</title>
+      <link>https://delta-built.com/projects/carbon-footprint-jeddah</link>
+      <guid isPermaLink="true">https://delta-built.com/projects/carbon-footprint-jeddah</guid>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <category>التطوير العقاري</category>
+      <description>خارطة طريق لخفض الانبعاثات وتحسين الأداء البيئي لمشروع عقاري كبير</description>
+      <enclosure url="https://delta-built.com/media/og/photo-1518005020951-eccb494ad742.jpg" type="image/jpeg" length="97889" />
+      <media:content url="https://delta-built.com/media/og/photo-1518005020951-eccb494ad742.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>دعم حصول مبنى إداري على شهادة LEED — الرياض</title>
+      <link>https://delta-built.com/projects/leed-green-building-riyadh</link>
+      <guid isPermaLink="true">https://delta-built.com/projects/leed-green-building-riyadh</guid>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <category>المباني التجارية</category>
+      <description>مرافقة فنية لمشروع معماري يسعى لنيل اعتماد LEED Gold</description>
+      <enclosure url="https://delta-built.com/media/og/photo-1586724237569-f3d0c1dee8c6.jpg" type="image/jpeg" length="207336" />
+      <media:content url="https://delta-built.com/media/og/photo-1586724237569-f3d0c1dee8c6.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>خطة الإدارة البيئية لمشروع تطوير سياحي — شمال غرب المملكة</title>
+      <link>https://delta-built.com/projects/emp-neom</link>
+      <guid isPermaLink="true">https://delta-built.com/projects/emp-neom</guid>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <category>السياحة والضيافة</category>
+      <description>خطة إدارة بيئية متكاملة لمشروع سياحي في بيئة طبيعية حساسة</description>
+      <enclosure url="https://delta-built.com/media/og/photo-1682687219573-3fd75f982217.jpg" type="image/jpeg" length="116904" />
+      <media:content url="https://delta-built.com/media/og/photo-1682687219573-3fd75f982217.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>الحصول على التصاريح البيئية لمنشأة لوجستية — القصيم</title>
+      <link>https://delta-built.com/projects/environmental-permit-logistics</link>
+      <guid isPermaLink="true">https://delta-built.com/projects/environmental-permit-logistics</guid>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <category>اللوجستيات والتوزيع</category>
+      <description>إدارة ملف التصاريح البيئية لمستودع لوجستي كبير خلال مرحلة الإنشاء</description>
+      <enclosure url="https://delta-built.com/media/og/photo-1565793298595-6a879b1d9492.jpg" type="image/jpeg" length="143264" />
+      <media:content url="https://delta-built.com/media/og/photo-1565793298595-6a879b1d9492.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>خطة إدارة النفايات لمشروع بنية تحتية — المنطقة الشرقية</title>
+      <link>https://delta-built.com/projects/waste-management-eastern</link>
+      <guid isPermaLink="true">https://delta-built.com/projects/waste-management-eastern</guid>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+      <category>البنية التحتية</category>
+      <description>تطوير منظومة متكاملة لإدارة وتصنيف النفايات الإنشائية والتشغيلية</description>
+      <enclosure url="https://delta-built.com/media/og/photo-1532996122724-e3c354a0b15b.jpg" type="image/jpeg" length="120763" />
+      <media:content url="https://delta-built.com/media/og/photo-1532996122724-e3c354a0b15b.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>برنامج رصد جودة الهواء — المنطقة الصناعية بالجبيل</title>
+      <link>https://delta-built.com/projects/air-quality-jubail</link>
+      <guid isPermaLink="true">https://delta-built.com/projects/air-quality-jubail</guid>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+      <category>الصناعة البتروكيماوية</category>
+      <description>تصميم وتشغيل شبكة رصد مستمر لجودة الهواء داخل المنطقة الصناعية</description>
+      <enclosure url="https://delta-built.com/media/og/photo-1611273426858-450d8e3c9fce.jpg" type="image/jpeg" length="69726" />
+      <media:content url="https://delta-built.com/media/og/photo-1611273426858-450d8e3c9fce.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>تقييم نفايات الهدم والتخلص الآمن من المواد — الدمام</title>
+      <link>https://delta-built.com/projects/demolition-waste-assessment</link>
+      <guid isPermaLink="true">https://delta-built.com/projects/demolition-waste-assessment</guid>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+      <category>التطوير العمراني</category>
+      <description>تحديد وتصنيف وإدارة مواد الهدم الخطرة وغير الخطرة</description>
+      <enclosure url="https://delta-built.com/media/og/photo-1504307651254-35680f356dfd.jpg" type="image/jpeg" length="172157" />
+      <media:content url="https://delta-built.com/media/og/photo-1504307651254-35680f356dfd.jpg" medium="image" type="image/jpeg" />
+    </item>
+  </channel>
+</rss>
